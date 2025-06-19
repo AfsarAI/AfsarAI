@@ -22,8 +22,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/afsar_ai" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/afsar_ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/afsar_ai_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/afsarai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/mdafasr92" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://instagram.com/afsar_ai_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/afsarai" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
